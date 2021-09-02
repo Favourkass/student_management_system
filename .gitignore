@@ -234,5 +234,6 @@ tags
 # Persistent undo
 [._]*.un~
 .vscode/
+migrations/
 
 # End of https://www.toptal.com/developers/gitignore/api/django,python,vim
